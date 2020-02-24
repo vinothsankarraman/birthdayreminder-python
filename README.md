@@ -1,2 +1,3 @@
 # tools-new
-Tools for different purpose
+This repository contains list of tools used for different purpose with different technologies with Java/spring boot and Python.
+
